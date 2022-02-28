@@ -1,5 +1,4 @@
-### Hola 👋 mi nombre es Wilkel Giovanni, soy desarrollador Full Stack.
-<br>
+### Hola <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> My name is Wilkel Giovanni and I'm a Software Engineer.
 <br>
 
 <div align="center">
@@ -8,7 +7,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wgiovanni&layout=compact&langs_count=7&theme=react"/>
 </div>
   
-<h2>Lenguajes y herramientas <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 30px> </h2>
+<h2>Languages and tools <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 30px> </h2>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Wilkel-Visual Studio Code" height="30" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />

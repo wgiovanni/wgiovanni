@@ -40,9 +40,11 @@
 [![Twitter: wgiovanni95](https://img.shields.io/badge/-wgiovanni-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/wgiovanni95)](https://twitter.com/wgiovanni95) &nbsp;
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=wgiovanni.wgiovanni)
 
- <div> 
-   ![Snake animation](https://github.com/wgiovanni/wgiovanni/blob/output/github-contribution-grid-snake.svg)
- </div>
+<div> 
+ 
+  ![Snake animation](https://github.com/wgiovanni/wgiovanni/blob/output/github-contribution-grid-snake.svg)
+ 
+</div>
 
 
 

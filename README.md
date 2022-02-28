@@ -4,8 +4,8 @@
 
 <div align="center">
   <a href="https://github.com/wgiovanni">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wgiovanni&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wgiovanni&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wgiovanni&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wgiovanni&layout=compact&langs_count=7&theme=react"/>
 </div>
   
 <h2>Lenguajes y herramientas <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 30px> </h2>

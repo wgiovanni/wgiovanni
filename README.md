@@ -1,4 +1,4 @@
-### Hola <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> My name is Wilkel Giovanni and I'm a Software Engineer.
+### Hi <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> My name is Wilkel Giovanni and I'm a Software Engineer.
 <br>
 
 <div align="center">
